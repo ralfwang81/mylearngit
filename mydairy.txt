@@ -6,3 +6,5 @@ add from dev branch
 now again!
 123
 use bash to commit
+
+from bash
